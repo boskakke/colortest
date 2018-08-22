@@ -76,6 +76,12 @@ a {
 }	
 </style>
 
+HEX:
+<article class="teaser"><div class="content"><p class="header"><? dummy("text@headline") ?></p><p class="summary"><? dummy("text@teaser") ?></p></div><span style="background: linear-gradient( hsla(0,0%,0%,0.0) 0%, #253e85 100%);"></span><img src="https://images.interactives.dk/supervulkan-paektu-cuZm9PoYcqCWkv3kL1WvFg.jpg?auto=compress&ch=Width%2CDPR&ixjsv=2.2.4&rect=1%2C1%2C958%2C663&w=1240" class="img"></article>
+HSL:
+<article class="teaser"><div class="content"><p class="header"><? dummy("text@headline") ?></p><p class="summary"><? dummy("text@teaser") ?></p></div><span style="background: linear-gradient( hsla(0,0%,0%,0.0) 0%, hsl(224,22%,16%) 100%);"></span><img src="https://images.interactives.dk/supervulkan-paektu-cuZm9PoYcqCWkv3kL1WvFg.jpg?auto=compress&ch=Width%2CDPR&ixjsv=2.2.4&rect=1%2C1%2C958%2C663&w=1240" class="img"></article>
+
+
 <article class="teaser"><div class="content"><p class="header"><? dummy("text@headline") ?></p><p class="summary"><? dummy("text@teaser") ?></p></div><span style="background: linear-gradient( hsla(0,0%,0%,0.0) 0%, #ae6351 100%);"></span><img src="https://images.interactives.dk/lyn2-emQFiZZpe-BV1GF8Odh8NQ.gif?auto=compress&ch=Width%2CDPR&ixjsv=2.2.4&rect=0%2C23%2C356%2C200&w=1240" class="img"></article>
 <article class="teaser"><div class="content"><p class="header"><? dummy("text@headline") ?></p><p class="summary"><? dummy("text@teaser") ?></p></div><span style="background: linear-gradient( hsla(0,0%,0%,0.0) 0%, #014d83 100%);"></span><img src="https://images.interactives.dk/haj-LxUHvTa4iBbYR3Ta1by09A.jpg?auto=compress&ch=Width%2CDPR&ixjsv=2.2.4&rect=0%2C0%2C0%2C0&w=1240" class="img"></article>
 <article class="teaser"><div class="content"><p class="header"><? dummy("text@headline") ?></p><p class="summary"><? dummy("text@teaser") ?></p></div><span style="background: linear-gradient( hsla(0,0%,0%,0.0) 0%, #6a3e2c 100%);"></span><img src="https://images.interactives.dk/files/bonnier-ill/pictures/iris.gif?auto=compress&ch=Width%2CDPR&ixjsv=2.2.4&rect=27%2C0%2C1445%2C1000&w=1240" class="img"></article>
@@ -100,8 +106,14 @@ a {
 <article class="teaser"><div class="content"><p class="header"><? dummy("text@headline") ?></p><p class="summary"><? dummy("text@teaser") ?></p></div><span style="background: linear-gradient( hsla(0,0%,0%,0.0) 0%, #00558b 100%);"></span><img src="https://images.interactives.dk/shutterstock_239934220-til_web-jFNU4fV2f5j2tWHs-C4Prw.jpg?auto=compress&ch=Width%2CDPR&ixjsv=2.2.4&rect=0%2C9%2C960%2C665&w=1240" class="img"></article>
 <article class="teaser"><div class="content"><p class="header"><? dummy("text@headline") ?></p><p class="summary"><? dummy("text@teaser") ?></p></div><span style="background: linear-gradient( hsla(0,0%,0%,0.0) 0%, #8d1a0c 100%);"></span><img src="https://images.interactives.dk/vulkaner-2-topbillede-k_NVlK_ezCk_3YSluu4Z8w.png?auto=compress&ch=Width%2CDPR&ixjsv=2.2.4&rect=17%2C0%2C885%2C613&w=1240" class="img"></article>
 <article class="teaser"><div class="content"><p class="header"><? dummy("text@headline") ?></p><p class="summary"><? dummy("text@teaser") ?></p></div><span style="background: linear-gradient( hsla(0,0%,0%,0.0) 0%, #8f280e 100%);"></span><img src="https://images.interactives.dk/lava--vx3iC6HSopmPzpusoVf9w.jpg?auto=compress&ch=Width%2CDPR&ixjsv=2.2.4&rect=0%2C0%2C960%2C664&w=1240" class="img"></article>
+
+
 <article class="teaser"><div class="content"><p class="header"><? dummy("text@headline") ?></p><p class="summary"><? dummy("text@teaser") ?></p></div><span style="background: linear-gradient( hsla(0,0%,0%,0.0) 0%, #04699a 100%);"></span><img src="https://images.interactives.dk/yellowstone-supervulkan-YzvWjOs8M3D6heo-ZzG_aA.jpg?auto=compress&ch=Width%2CDPR&ixjsv=2.2.4&rect=1%2C1%2C958%2C663&w=1240" class="img"></article>
-<article class="teaser"><div class="content"><p class="header"><? dummy("text@headline") ?></p><p class="summary"><? dummy("text@teaser") ?></p></div><span style="background: linear-gradient( hsla(0,0%,0%,0.0) 0%, #253e85 100%);"></span><img src="https://images.interactives.dk/supervulkan-paektu-cuZm9PoYcqCWkv3kL1WvFg.jpg?auto=compress&ch=Width%2CDPR&ixjsv=2.2.4&rect=1%2C1%2C958%2C663&w=1240" class="img"></article>
+
+
+
+
+
 <article class="teaser"><div class="content"><p class="header"><? dummy("text@headline") ?></p><p class="summary"><? dummy("text@teaser") ?></p></div><span style="background: linear-gradient( hsla(0,0%,0%,0.0) 0%, #02060c 100%);"></span><img src="https://images.interactives.dk/443_ill_960x665_netv-rksboks-tL7_VHoZn24KVfl257CK2w.jpg?auto=compress&ch=Width%2CDPR&ixjsv=2.2.4&rect=0%2C0%2C960%2C664&w=1240" class="img"></article>
 <article class="teaser"><div class="content"><p class="header"><? dummy("text@headline") ?></p><p class="summary"><? dummy("text@teaser") ?></p></div><span style="background: linear-gradient( hsla(0,0%,0%,0.0) 0%, #497019 100%);"></span><img src="https://images.interactives.dk/586_ill_960x665_netv-rksboksbillede_dk-hlC45ds7By_jHN2UjlJukg.jpg?auto=compress&ch=Width%2CDPR&ixjsv=2.2.4&rect=0%2C0%2C960%2C664&w=1240" class="img"></article>
 <article class="teaser"><div class="content"><p class="header"><? dummy("text@headline") ?></p><p class="summary"><? dummy("text@teaser") ?></p></div><span style="background: linear-gradient( hsla(0,0%,0%,0.0) 0%, #a84d2d 100%);"></span><img src="https://images.interactives.dk/vid_billede_960x665_dk-pilIc0ZapQeo3yauMdZi6Q.jpg?auto=compress&ch=Width%2CDPR&ixjsv=2.2.4&rect=0%2C0%2C960%2C664&w=1240" class="img"></article>
